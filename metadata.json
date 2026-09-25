@@ -1,0 +1,9 @@
+{
+  "name": "Windows Black",
+  "description": "An ultra-prosperous pitch-dark cyberpunk operating system shell with Mica/Fluent glass, floating window compositor, snap layouts, virtual file system, and AI Copilot.",
+  "prompt": "",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
